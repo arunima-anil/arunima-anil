@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:arunima.anil@nurix.ai">
+  <a href="mailto:arunima3628@gmail.com">
     <img src="https://img.shields.io/badge/Email-arunima.anil%40nurix.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
