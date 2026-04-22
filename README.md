@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arunima-anil">
+  <a href="www.linkedin.com/in/arunima-anil-115691221">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
